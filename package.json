@@ -1,5 +1,5 @@
 {
-  "name": "@shaksperio/deka",
+  "name": "deka",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
@@ -10,6 +10,7 @@
     "preview": "astro preview"
   },
   "dependencies": {
+    "@astrojs/netlify": "^5.3.0",
     "astro-decap-cms": "^0.1.0"
   },
   "devDependencies": {
